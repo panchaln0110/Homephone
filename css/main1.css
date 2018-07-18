@@ -665,6 +665,11 @@ button.btn.btn-secondary.dropdown-toggle{
     background: url(../images/kids-img_mobile.png) center;
     background-size: cover;
 }
+#l-banner-event{
+    height: 100%;
+    background: url(../images/event-mobile.png) center;
+    background-size: cover;
+}
 
 
 #l-banner-pack {
@@ -1029,7 +1034,7 @@ div.col-sm-2.col-6 {
         max-width: 730px;
     }
     #agents > .container {
-        max-width: 730px;
+        max-width: 1460px;
     }
     #fourcolumns > div.container{
         max-width: 1460px;
@@ -1082,6 +1087,10 @@ div.col-sm-2.col-6 {
     }
     .dps-infographic {
         width: 40%;
+    }
+    .img-size{
+        width: 115px;
+        height: 85px;
     }
 
     /*    pc width home phone banner h1*/
@@ -1189,6 +1198,11 @@ div.col-sm-2.col-6 {
     #l-banner-PFK{
         height: 100%;
         background: url(../images/kids-img.png) center;
+        background-size: cover;
+    }
+    #l-banner-event{
+         height: 100%;
+        background: url(../images/event-desktop.png) center;
         background-size: cover;
     }
 
@@ -1350,7 +1364,7 @@ div.col-sm-2.col-6 {
     .dps-infographic {
         width: 50%;
     }
-    .acn-bg-gray{
+    .acn-bg-gray1{
         background-color: #F2F5F9;
     }
     .acn-bg-white{
@@ -1471,6 +1485,11 @@ div.col-sm-2.col-6 {
     #l-banner-PFK{
          height: 100%;
         background: url(../images/kids-img_tablet.png) center;
+        background-size: cover;
+    }
+    #l-banner-event{
+        height: 100%;
+        background: url(../images/event-tablet.png) center;
         background-size: cover;
     }
 
